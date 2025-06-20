@@ -1,5 +1,5 @@
 <h1 align="left"> 
-  Hey yo, I'm Victor Viana, <strong>Back-end Developer!!</strong>
+  Hey yo, I'm João Victor Sousa Viana, <strong>Back-end Developer!!</strong>
 </h1>
 
 <p align="left">
